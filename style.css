@@ -30,7 +30,7 @@ body{
     flex-direction: column;
     padding: 1.626vw;
     gap: 1.22vw;
-    border-radius: 0.16px;
+    border-radius: 15px;
     justify-content: center;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 1);
     
